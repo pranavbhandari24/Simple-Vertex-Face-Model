@@ -35,7 +35,7 @@
         f  17   23   56
 
       In the SVFM file, the vertices are numbered 1 to n.  In
-      your program, the vertices will be refered to as 0 to n-1.
+      the program, the vertices will be refered to as 0 to n-1.
 
     - If a line starts with any other non-whitespace character, it
       should be silently ignored.
