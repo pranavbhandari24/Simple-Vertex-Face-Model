@@ -1,6 +1,6 @@
-// Bhandari, Pranav
-// pjb1132
-// 2020-04-04
+// Dalio, Brian A.
+// dalioba
+// 2020-03-30
 
 #if !defined( __VERTEX_H__ )
 #define __VERTEX_H__

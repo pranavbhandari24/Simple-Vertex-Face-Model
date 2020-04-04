@@ -9,11 +9,11 @@
 //----------------------------------------------------------
 void dumpVertex( Vertex *vertex )
 {
-  // TODO: Put a printf here that dumps the given vertex's
-  //       X, Y, and Z coordinates. Show 6 decimal places.
-  //       Do NOT print a newline as part of this dump.  That
-  //       gets done elsewhere.
+  /* 
+    The printf here that dumps the given vertex's
+    X, Y, and Z coordinates. It shows 6 decimal places.
+  */
+  printf("%13.6f, %13.6f, %13.6f", vertex->x, vertex->y, vertex->z);
 }
 
 //----------------------------------------------------------
-

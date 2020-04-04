@@ -1,6 +1,6 @@
-// Bhandari, Pranav
-// pjb1132
-// 2020-04-04
+// Dalio, Brian A.
+// dalioba
+// 2020-04-02
 
 #if !defined( __MODEL_H__ )
 #define __MODEL_H__
